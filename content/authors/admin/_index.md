@@ -1,7 +1,7 @@
 ---
 title: Diyan Sueka Buana Putra
 role: Project Manager
-avatar_filename: dc510b4b-efcd-4953-9222-5ef0ca02f9d6.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
