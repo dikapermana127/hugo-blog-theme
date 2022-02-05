@@ -5,13 +5,13 @@ avatar_filename: avatar.jpg
 bio: "-"
 social:
   - icon: envelope
-    icon_pack: far
+    icon_pack: fas
     link: about/#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/diyansueka
     display:
-      header: true
+      header: false
 organizations: []
 superuser: true
 status:
