@@ -5,14 +5,16 @@ avatar_filename: avatar.jpg
 bio: "-"
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: far
     link: about/#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/diyansueka
+    display:
+      header: true
 organizations: []
 superuser: true
 status:
-  icon: 🌊
+  icon: ☕️
 ---
 Diyan Sueka is a simple man
