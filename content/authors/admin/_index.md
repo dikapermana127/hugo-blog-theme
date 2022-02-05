@@ -15,6 +15,6 @@ social:
 organizations: []
 superuser: true
 status:
-  icon: ☕️
+  icon: 🌊
 ---
 Diyan Sueka is a simple man
